@@ -1,1 +1,1 @@
-# FJRE07-PseudoRandom_Number_Generator
+PseudoRandom_Number_Generator
